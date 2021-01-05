@@ -5,6 +5,14 @@ body{
 
 h1{
     font-size: 50px;
+
+}
+h2{
+    font-size: 40px;
+}
+
+p{
+    color: dimgrey;
 }
 
 .name-highlight{
@@ -17,6 +25,7 @@ h1{
     margin-left: 5%;
     margin-top: 1%;
     padding-left: 2%;
+    
 
 }
 .half-width img {
@@ -29,6 +38,8 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
 }
 .linkButton{
 
@@ -51,4 +62,24 @@ section{
     background-image: url("dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.singleExperience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 50%;
+}
+.xprnc{
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+}
+#firstbox{
+       border-left: 7px solid;
+       border-image: linear-gradient(orange, tomato);
+       border-image-slice: 5;
+}
+#secondbox{
+    border-left: 7px solid;
+       border-image: linear-gradient(black, blue);
+       border-image-slice: 5;
+
 }
