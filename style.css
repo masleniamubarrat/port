@@ -46,3 +46,9 @@ section{
     box-shadow: inset 400px 0 0 0 red;
 
 }
+
+.lowBanner{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
