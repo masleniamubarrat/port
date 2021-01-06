@@ -111,21 +111,54 @@ section{
 
    
     
-}
+
 #exp{
     text-align: center;
     font-weight: bolder;
+    font-size: 35px;
+    
+}
+#ltst{
+    color: #F46060 ;
 }
 .workdiv p{
     font-size: 50px;
 }
 .chat{
-    background-image: url("ok.png");
-    background-repeat: no-repeat;
-    margin-left: 26%;
+    position: absolute;
+width: 906px;
+height: 225px;
+left: 267px;
+top: 2116px;
+
 }
 h4{
     text-align: center;
     font-size: x-large;
 }
 
+.lowerhalf{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 1%;
+    padding-left: 2%;
+}
+.h{ font-size: 40px;
+    position: absolute;
+width: 277px;
+height: 64px;
+left: 341px;
+top: 2150px;
+
+}
+.box{
+    position: absolute;
+
+
+left: 972px;
+top: 2201px;
+font-size: 20px;
+text-decoration: none;
+
+}
